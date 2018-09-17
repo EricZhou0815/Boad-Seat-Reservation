@@ -1,2 +1,2 @@
-# boat ticket booking interface
+# Boat Seat Reservation Interface
   Assignment of Interned & Website Development
