@@ -14,6 +14,8 @@ Assignment of Interned & Website Development
 
 - Simple booking list
 
+- Stores booking data in the browser local storage
+
 # Screentshot
 
 ![sc](Boad-Seat-Reservation.png)
