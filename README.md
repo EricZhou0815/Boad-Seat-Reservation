@@ -2,11 +2,11 @@
 
 Assignment of Interned & Website Development
 
-# Features
+# Features with pure JavaScript
 
-- Calendar with JavaScript
+- Calendar for date selection
 
-- Mouse on hover effect with JavaScript
+- Seat information display with mouse on-hover effect
 
 - Simple booking list
 
