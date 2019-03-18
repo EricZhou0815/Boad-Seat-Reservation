@@ -4,6 +4,8 @@ Assignment of Interned & Website Development
 
 # Features with pure JavaScript
 
+- Read seats information from XML file
+
 - Calendar for date selection
 
 - Seat information display with mouse on-hover effect
