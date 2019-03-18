@@ -8,6 +8,8 @@ Assignment of Interned & Website Development
 
 - Mouse on hover effect with JavaScript
 
+- Simple booking list
+
 # Screentshot
 
 ![sc](Boad-Seat-Reservation.png)
