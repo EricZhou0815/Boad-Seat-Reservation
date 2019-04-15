@@ -1,8 +1,8 @@
-## Boat Seat Reservation Interface
+# Boat Seat Reservation Interface
 
 Assignment of Interned & Website Development
 
-# Features with pure JavaScript
+## Features with pure JavaScript
 
 - Read seats information from XML file
 
@@ -16,6 +16,6 @@ Assignment of Interned & Website Development
 
 - Stores booking data in the browser local storage
 
-# Screentshot
+## Screentshot
 
 ![sc](Boad-Seat-Reservation.png)
